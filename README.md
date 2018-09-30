@@ -1,4 +1,2 @@
-maitreyak.github.io
+Computer science for Mentat (or some other cool reference) 
 ===================
-
-Personal Page and Blog.
